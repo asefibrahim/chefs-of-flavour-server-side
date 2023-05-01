@@ -275,5 +275,186 @@
                 "image": "https://example.com/flan.jpg"
             }
         ]
+    },
+    {
+        "name": "Jiro Ono",
+        "image": "https://example.com/chef5.jpg",
+        "yearsOfExperience": 80,
+        "likes": 20000,
+        "numRecipes": 3,
+        "recipes": [
+            {
+                "name": "Sushi",
+                "ingredients": [
+                    "sushi rice",
+                    "fish",
+                    "wasabi",
+                    "soy sauce",
+                    "seaweed"
+                ],
+                "method": "Cook and season sushi rice. Cut fish into slices. Form rice into balls and top with fish. Serve with wasabi, soy sauce, and seaweed.",
+                "rating": 4.9,
+                "image": "https://example.com/sushi.jpg"
+            },
+            {
+                "name": "Sashimi",
+                "ingredients": [
+                    "fish",
+                    "wasabi",
+                    "soy sauce"
+                ],
+                "method": "Cut fish into thin slices. Serve with wasabi and soy sauce.",
+                "rating": 4.8,
+                "image": "https://example.com/sashimi.jpg"
+            },
+            {
+                "name": "Chirashi",
+                "ingredients": [
+                    "sushi rice",
+                    "fish",
+                    "vegetables",
+                    "egg",
+                    "seaweed"
+                ],
+                "method": "Cook and season sushi rice. Top with sliced fish, vegetables, and egg. Serve with seaweed.",
+                "rating": 4.7,
+                "image": "https://example.com/chirashi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Gordon Ramsay",
+        "image": "https://example.com/chef6.jpg",
+        "yearsOfExperience": 30,
+        "likes": 30000,
+        "numRecipes": 4,
+        "recipes": [
+            {
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "prosciutto",
+                    "egg wash"
+                ],
+                "method": "Wrap beef fillet in prosciutto and mushrooms, then wrap in puff pastry. Brush with egg wash and bake until golden brown.",
+                "rating": 4.7,
+                "image": "https://example.com/beef_wellington.jpg"
+            },
+            {
+                "name": "Fish and Chips",
+                "ingredients": [
+                    "cod fillet",
+                    "potatoes",
+                    "flour",
+                    "beer",
+                    "oil"
+                ],
+                "method": "Dredge cod fillet in seasoned flour, then dip in beer batter. Fry in hot oil until golden brown. Serve with chips.",
+                "rating": 4.6,
+                "image": "https://example.com/fish_and_chips.jpg"
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground beef",
+                    "carrots",
+                    "peas",
+                    "onion",
+                    "mashed potatoes"
+                ],
+                "method": "Brown ground beef with carrots, peas, and onion. Top with mashed potatoes and bake until golden brown.",
+                "rating": 4.5,
+                "image": "https://example.com/shepherds_pie.jpg"
+            },
+            {
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "beef sirloin",
+                    "mushrooms",
+                    "onion",
+                    "sour cream",
+                    "egg noodles"
+                ],
+                "method": "Saute beef sirloin with mushrooms and onion. Add sour cream and simmer until thickened. Serve over egg noodles.",
+                "rating": 4.4,
+                "image": "https://example.com/beef_stroganoff.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Ina Garten",
+        "image": "https://example.com/chef8.jpg",
+        "yearsOfExperience": 40,
+        "likes": 35000,
+        "numRecipes": 5,
+        "recipes": [
+            {
+                "name": "Lobster Mac and Cheese",
+                "ingredients": [
+                    "lobster meat",
+                    "macaroni",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "method": "Boil macaroni and lobster, then mix with a cheese sauce made from butter, flour, and milk. Top with breadcrumbs and bake until golden brown.",
+                "rating": 4.8,
+                "image": "https://example.com/lobster_mac_and_cheese.jpg"
+            },
+            {
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck",
+                    "bacon",
+                    "carrots",
+                    "onions",
+                    "red wine"
+                ],
+                "method": "Brown beef and bacon, then add carrots and onions. Deglaze with red wine and simmer until tender.",
+                "rating": 4.7,
+                "image": "https://example.com/beef_bourguignon.jpg"
+            },
+            {
+                "name": "Roast Turkey",
+                "ingredients": [
+                    "turkey",
+                    "butter",
+                    "garlic",
+                    "lemon",
+                    "thyme"
+                ],
+                "method": "Rub turkey with butter, garlic, lemon, and thyme. Roast until golden brown and cooked through.",
+                "rating": 4.6,
+                "image": "https://example.com/roast_turkey.jpg"
+            },
+            {
+                "name": "Potato Salad",
+                "ingredients": [
+                    "potatoes",
+                    "mayonnaise",
+                    "sour cream",
+                    "scallions",
+                    "dill"
+                ],
+                "method": "Boil potatoes, then mix with a dressing made from mayonnaise, sour cream, scallions, and dill.",
+                "rating": 4.5,
+                "image": "https://example.com/potato_salad.jpg"
+            },
+            {
+                "name": "Shrimp Scampi",
+                "ingredients": [
+                    "shrimp",
+                    "pasta",
+                    "butter",
+                    "garlic",
+                    "lemon"
+                ],
+                "method": "Saute shrimp and garlic in butter, then toss with pasta and lemon.",
+                "rating": 4.4,
+                "image": "https://example.com/shrimp_scampi.jpg"
+            }
+        ]
     }
 ]
