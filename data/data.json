@@ -1,0 +1,279 @@
+[
+    {
+        "name": "Diana Kennedy",
+        "image": "https://example.com/chef3.jpg",
+        "yearsOfExperience": 50,
+        "likes": 12000,
+        "numRecipes": 6,
+        "recipes": [
+            {
+                "name": "Pozole",
+                "ingredients": [
+                    "pork shoulder",
+                    "hominy",
+                    "ancho chiles",
+                    "garlic",
+                    "onion"
+                ],
+                "method": "Boil pork and hominy with chiles, garlic, and onion until tender. Serve with chopped onion, lime wedges, and cilantro.",
+                "rating": 4.8,
+                "image": "https://example.com/pozole.jpg"
+            },
+            {
+                "name": "Chiles en Nogada",
+                "ingredients": [
+                    "poblano chiles",
+                    "ground beef",
+                    "dried fruits",
+                    "almonds",
+                    "walnuts",
+                    "goat cheese",
+                    "pomegranate seeds",
+                    "parsley"
+                ],
+                "method": "Stuff chiles with meat and fruit mixture, then top with creamy walnut sauce and garnish with pomegranate seeds and parsley.",
+                "rating": 4.7,
+                "image": "https://example.com/chilesnogada.jpg"
+            },
+            {
+                "name": "Salsa Roja",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "chiles",
+                    "cilantro"
+                ],
+                "method": "Char tomatoes, onion, and chiles until blistered. Blend with garlic and cilantro until smooth. Season with salt and serve with tortilla chips.",
+                "rating": 4.5,
+                "image": "https://example.com/salsaroja.jpg"
+            },
+            {
+                "name": "Tamales",
+                "ingredients": [
+                    "masa harina",
+                    "lard",
+                    "chicken or pork",
+                    "dried chiles",
+                    "corn husks"
+                ],
+                "method": "Soak corn husks, then spread masa on each one. Top with meat mixture and wrap tightly. Steam until cooked through.",
+                "rating": 4.6,
+                "image": "https://example.com/tamales.jpg"
+            },
+            {
+                "name": "Tres Leches Cake",
+                "ingredients": [
+                    "flour",
+                    "baking powder",
+                    "butter",
+                    "sugar",
+                    "eggs",
+                    "milk",
+                    "evaporated milk",
+                    "sweetened condensed milk",
+                    "whipped cream"
+                ],
+                "method": "Bake cake, then soak with three types of milk. Top with whipped cream and garnish with fresh fruit.",
+                "rating": 4.4,
+                "image": "https://example.com/tresleches.jpg"
+            },
+            {
+                "name": "Pico de Gallo",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "jalapeño",
+                    "lime juice",
+                    "cilantro"
+                ],
+                "method": "Chop tomatoes, onion, and jalapeño. Mix with lime juice and cilantro. Season with salt and serve with tortilla chips.",
+                "rating": 4.9,
+                "image": "https://example.com/picogallo.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Enrique Olvera",
+        "image": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 20,
+        "likes": 10000,
+        "numRecipes": 5,
+        "recipes": [
+            {
+                "name": "Tacos al Pastor",
+                "ingredients": [
+                    "pork shoulder",
+                    "pineapple",
+                    "achiote paste",
+                    "guajillo chiles",
+                    "corn tortillas"
+                ],
+                "method": "Marinate pork in achiote paste and pineapple juice, then grill on a spit. Serve on warm tortillas with diced pineapple and onion.",
+                "rating": 4.5,
+                "image": "https://example.com/tacos.jpg"
+            },
+            {
+                "name": "Mole Poblano",
+                "ingredients": [
+                    "dried ancho chiles",
+                    "dried pasilla chiles",
+                    "dried mulato chiles",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "almonds",
+                    "raisins",
+                    "cinnamon",
+                    "cloves",
+                    "chocolate"
+                ],
+                "method": "Toast chiles and grind with spices and nuts. Simmer with tomatoes, onion, and garlic until thick. Add chocolate and stir until melted.",
+                "rating": 4.0,
+                "image": "https://example.com/mole.jpg"
+            },
+            {
+                "name": "Ceviche",
+                "ingredients": [
+                    "white fish",
+                    "lime juice",
+                    "red onion",
+                    "cilantro",
+                    "avocado"
+                ],
+                "method": "Marinate fish in lime juice until opaque. Mix with diced onion, cilantro, and avocado. Season with salt and serve with tortilla chips.",
+                "rating": 4.2,
+                "image": "https://example.com/ceviche.jpg"
+            },
+            {
+                "name": "Chiles Rellenos",
+                "ingredients": [
+                    "poblano chiles",
+                    "queso fresco",
+                    "eggs",
+                    "flour",
+                    "oil"
+                ],
+                "method": "Roast and peel chiles. Stuff with cheese and dip in egg batter. Fry until golden brown and serve with tomato sauce.",
+                "rating": 4.3,
+                "image": "https://example.com/chiles.jpg"
+            },
+            {
+                "name": "Guacamole",
+                "ingredients": [
+                    "avocado",
+                    "red onion",
+                    "tomato",
+                    "cilantro",
+                    "lime juice"
+                ],
+                "method": "Mash avocado with onion, tomato, cilantro, and lime juice. Season with salt and serve with tortilla chips.",
+                "rating": 4.6,
+                "image": "https://example.com/guac.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Patricia Quintana",
+        "image": "https://example.com/chef3.jpg",
+        "yearsOfExperience": 30,
+        "likes": 12000,
+        "numRecipes": 6,
+        "recipes": [
+            {
+                "name": "Chiles en Nogada",
+                "ingredients": [
+                    "poblano chiles",
+                    "ground beef",
+                    "dried apricots",
+                    "raisins",
+                    "almonds",
+                    "cinnamon",
+                    "milk",
+                    "egg yolks",
+                    "cream",
+                    "pomegranate seeds"
+                ],
+                "method": "Roast, peel, and seed chiles. Stuff with beef, fruit, and nuts. Coat in egg batter and fry. Top with walnut sauce and pomegranate seeds.",
+                "rating": 4.7,
+                "image": "https://example.com/chilesnogada.jpg"
+            },
+            {
+                "name": "Pozole",
+                "ingredients": [
+                    "pork shoulder",
+                    "hominy",
+                    "garlic",
+                    "onion",
+                    "oregano",
+                    "chiles",
+                    "lettuce",
+                    "radish",
+                    "lime",
+                    "tortilla chips"
+                ],
+                "method": "Boil pork with garlic, onion, and spices until tender. Add hominy and simmer until cooked. Serve with lettuce, radish, lime, and tortilla chips.",
+                "rating": 4.4,
+                "image": "https://example.com/pozole.jpg"
+            },
+            {
+                "name": "Tamales",
+                "ingredients": [
+                    "masa harina",
+                    "pork",
+                    "chiles",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "corn husks"
+                ],
+                "method": "Soak corn husks in water. Mix masa with broth and spread on husks. Add filling of pork and sauce. Roll and steam until cooked.",
+                "rating": 4.1,
+                "image": "https://example.com/tamales.jpg"
+            },
+            {
+                "name": "Salsa Roja",
+                "ingredients": [
+                    "dried chiles",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "cilantro"
+                ],
+                "method": "Toast chiles and blend with tomatoes, onion, and garlic. Add cilantro and salt to taste.",
+                "rating": 4.0,
+                "image": "https://example.com/salsa.jpg"
+            },
+            {
+                "name": "Flan",
+                "ingredients": [
+                    "eggs",
+                    "milk",
+                    "sugar",
+                    "vanilla",
+                    "cinnamon"
+                ],
+                "method": "Whisk eggs with milk, sugar, and flavorings. Pour into ramekins and bake in a water bath until set. Chill and serve.",
+                "rating": 4.3,
+                "image": "https://example.com/flan.jpg"
+            },
+            {
+                "name": "Sopa Azteca",
+                "ingredients": [
+                    "tomatoes",
+                    "garlic",
+                    "onion",
+                    "chicken broth",
+                    "tortilla chips",
+                    "avocado",
+                    "cheese",
+                    "cilantro",
+                    "sour cream"
+                ],
+                "method": "Blend tomatoes, garlic, and onion. Simmer with broth and chips until",
+                "rating": 4.3,
+                "image": "https://example.com/flan.jpg"
+            }
+        ]
+    }
+]
