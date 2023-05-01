@@ -1,7 +1,8 @@
 [
     {
         "name": "Diana Kennedy",
-        "image": "https://example.com/chef3.jpg",
+        "id": 1,
+        "image": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "yearsOfExperience": 50,
         "likes": 12000,
         "numRecipes": 6,
@@ -95,7 +96,8 @@
     },
     {
         "name": "Enrique Olvera",
-        "image": "https://example.com/chef1.jpg",
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "yearsOfExperience": 20,
         "likes": 10000,
         "numRecipes": 5,
@@ -175,7 +177,8 @@
     },
     {
         "name": "Patricia Quintana",
-        "image": "https://example.com/chef3.jpg",
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1387&q=80",
         "yearsOfExperience": 30,
         "likes": 12000,
         "numRecipes": 6,
@@ -278,7 +281,8 @@
     },
     {
         "name": "Jiro Ono",
-        "image": "https://example.com/chef5.jpg",
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1622221410151-2e0c403c5c38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
         "yearsOfExperience": 80,
         "likes": 20000,
         "numRecipes": 3,
@@ -324,7 +328,8 @@
     },
     {
         "name": "Gordon Ramsay",
-        "image": "https://example.com/chef6.jpg",
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1611728022556-d1475c4ce9d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1323&q=80",
         "yearsOfExperience": 30,
         "likes": 30000,
         "numRecipes": 4,
@@ -385,7 +390,8 @@
     },
     {
         "name": "Ina Garten",
-        "image": "https://example.com/chef8.jpg",
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1574966740429-6158cb530208?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "yearsOfExperience": 40,
         "likes": 35000,
         "numRecipes": 5,
