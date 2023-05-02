@@ -6,6 +6,7 @@
         "yearsOfExperience": 50,
         "likes": 12000,
         "numRecipes": 6,
+        "bio": "Diana Kennedy is a British-born, Mexican-based chef, cookbook author, and culinary anthropologist. She is known for her extensive research into traditional Mexican cuisine and is considered an authority on the subject. Kennedy has written several books on Mexican cooking, including 'The Cuisines of Mexico,' 'The Essential Cuisines of Mexico,' and 'Oaxaca al Gusto,' which have all been critically acclaimed. Throughout her career, she has also been involved in the preservation of traditional Mexican cooking techniques and ingredients. Kennedy has been recognized for her contributions to Mexican cuisine and was awarded the Order of the Aztec Eagle, the highest honor bestowed on foreigners by the Mexican government.",
         "recipes": [
             {
                 "name": "Pozole",
@@ -18,7 +19,7 @@
                 ],
                 "method": "Boil pork and hominy with chiles, garlic, and onion until tender. Serve with chopped onion, lime wedges, and cilantro.",
                 "rating": 4.8,
-                "image": "https://example.com/pozole.jpg"
+                "image": "https://images.unsplash.com/photo-1649532245300-c3ed0565ffa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
             },
             {
                 "name": "Chiles en Nogada",
@@ -34,7 +35,7 @@
                 ],
                 "method": "Stuff chiles with meat and fruit mixture, then top with creamy walnut sauce and garnish with pomegranate seeds and parsley.",
                 "rating": 4.7,
-                "image": "https://example.com/chilesnogada.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1664475995229-f7979675d99f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Salsa Roja",
@@ -47,7 +48,7 @@
                 ],
                 "method": "Char tomatoes, onion, and chiles until blistered. Blend with garlic and cilantro until smooth. Season with salt and serve with tortilla chips.",
                 "rating": 4.5,
-                "image": "https://example.com/salsaroja.jpg"
+                "image": "https://images.unsplash.com/photo-1603134522163-386e0ebd4049?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
             },
             {
                 "name": "Tamales",
@@ -60,7 +61,7 @@
                 ],
                 "method": "Soak corn husks, then spread masa on each one. Top with meat mixture and wrap tightly. Steam until cooked through.",
                 "rating": 4.6,
-                "image": "https://example.com/tamales.jpg"
+                "image": "https://images.unsplash.com/photo-1587569906338-f79d500d7122?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
             },
             {
                 "name": "Tres Leches Cake",
@@ -77,7 +78,7 @@
                 ],
                 "method": "Bake cake, then soak with three types of milk. Top with whipped cream and garnish with fresh fruit.",
                 "rating": 4.4,
-                "image": "https://example.com/tresleches.jpg"
+                "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
             },
             {
                 "name": "Pico de Gallo",
@@ -90,17 +91,18 @@
                 ],
                 "method": "Chop tomatoes, onion, and jalapeño. Mix with lime juice and cilantro. Season with salt and serve with tortilla chips.",
                 "rating": 4.9,
-                "image": "https://example.com/picogallo.jpg"
+                "image": "https://images.unsplash.com/photo-1593759608136-45eb2ad9507d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1459&q=80"
             }
         ]
     },
     {
         "name": "Enrique Olvera",
         "id": 2,
-        "image": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "image": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "yearsOfExperience": 20,
         "likes": 10000,
         "numRecipes": 5,
+        "bio": "Enrique Olvera is a Mexican chef and restaurateur who is considered one of the most influential chefs in Latin America. He is the owner and head chef of Pujol, a restaurant in Mexico City that has been ranked among the world's 50 best restaurants. Olvera is known for his creative and contemporary take on traditional Mexican cuisine, which often incorporates unusual ingredients and innovative techniques. He has also opened several other restaurants in Mexico and the United States, including Cosme in New York City. Olvera has been recognized for his contributions to the culinary world and has received numerous awards, including the Diners Club Lifetime Achievement Award and the Chef's Choice Award from Madrid Fusión.",
         "recipes": [
             {
                 "name": "Tacos al Pastor",
@@ -113,7 +115,7 @@
                 ],
                 "method": "Marinate pork in achiote paste and pineapple juice, then grill on a spit. Serve on warm tortillas with diced pineapple and onion.",
                 "rating": 4.5,
-                "image": "https://example.com/tacos.jpg"
+                "image": "https://images.unsplash.com/photo-1606168152642-aae9b879f3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Mole Poblano",
@@ -132,7 +134,7 @@
                 ],
                 "method": "Toast chiles and grind with spices and nuts. Simmer with tomatoes, onion, and garlic until thick. Add chocolate and stir until melted.",
                 "rating": 4.0,
-                "image": "https://example.com/mole.jpg"
+                "image": "https://images.unsplash.com/photo-1579639482794-abf71bcd3960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Ceviche",
@@ -145,7 +147,7 @@
                 ],
                 "method": "Marinate fish in lime juice until opaque. Mix with diced onion, cilantro, and avocado. Season with salt and serve with tortilla chips.",
                 "rating": 4.2,
-                "image": "https://example.com/ceviche.jpg"
+                "image": "https://images.unsplash.com/photo-1608176439783-556c7f59f263?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Chiles Rellenos",
@@ -158,7 +160,7 @@
                 ],
                 "method": "Roast and peel chiles. Stuff with cheese and dip in egg batter. Fry until golden brown and serve with tomato sauce.",
                 "rating": 4.3,
-                "image": "https://example.com/chiles.jpg"
+                "image": "https://images.unsplash.com/photo-1634832775326-07c4473a2737?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80"
             },
             {
                 "name": "Guacamole",
@@ -171,7 +173,7 @@
                 ],
                 "method": "Mash avocado with onion, tomato, cilantro, and lime juice. Season with salt and serve with tortilla chips.",
                 "rating": 4.6,
-                "image": "https://example.com/guac.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1681406688599-443cb1ed64e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
             }
         ]
     },
@@ -182,6 +184,7 @@
         "yearsOfExperience": 30,
         "likes": 12000,
         "numRecipes": 6,
+        "bio": "Patricia Quintana was a Mexican chef, author, and television personality who was widely regarded as an authority on Mexican cuisine. She was known for her emphasis on traditional Mexican ingredients and cooking techniques, as well as her efforts to promote Mexican cuisine both domestically and internationally. Quintana owned and operated several restaurants in Mexico, including Izote and La Guapa. She also wrote several cookbooks, including 'Mexico's Feasts of Life,' which was recognized with the James Beard Award. Throughout her career, Quintana was involved in promoting Mexican cuisine abroad, and she was a frequent guest speaker at culinary conferences and events. She was also a judge on the popular television show 'Top Chef Mexico.' Quintana passed away in 2018, but her contributions to Mexican cuisine continue to be celebrated and recognized today.",
         "recipes": [
             {
                 "name": "Chiles en Nogada",
@@ -199,7 +202,7 @@
                 ],
                 "method": "Roast, peel, and seed chiles. Stuff with beef, fruit, and nuts. Coat in egg batter and fry. Top with walnut sauce and pomegranate seeds.",
                 "rating": 4.7,
-                "image": "https://example.com/chilesnogada.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1664475987912-3e5401654a0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
             },
             {
                 "name": "Pozole",
@@ -217,7 +220,7 @@
                 ],
                 "method": "Boil pork with garlic, onion, and spices until tender. Add hominy and simmer until cooked. Serve with lettuce, radish, lime, and tortilla chips.",
                 "rating": 4.4,
-                "image": "https://example.com/pozole.jpg"
+                "image": "https://images.unsplash.com/photo-1649532245300-c3ed0565ffa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80"
             },
             {
                 "name": "Tamales",
@@ -232,7 +235,7 @@
                 ],
                 "method": "Soak corn husks in water. Mix masa with broth and spread on husks. Add filling of pork and sauce. Roll and steam until cooked.",
                 "rating": 4.1,
-                "image": "https://example.com/tamales.jpg"
+                "image": "https://images.unsplash.com/photo-1604647193514-54448f65c02a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
             },
             {
                 "name": "Salsa Roja",
@@ -245,7 +248,7 @@
                 ],
                 "method": "Toast chiles and blend with tomatoes, onion, and garlic. Add cilantro and salt to taste.",
                 "rating": 4.0,
-                "image": "https://example.com/salsa.jpg"
+                "image": "https://images.unsplash.com/photo-1511690078903-71dc5a49f5e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
             },
             {
                 "name": "Flan",
@@ -258,7 +261,7 @@
                 ],
                 "method": "Whisk eggs with milk, sugar, and flavorings. Pour into ramekins and bake in a water bath until set. Chill and serve.",
                 "rating": 4.3,
-                "image": "https://example.com/flan.jpg"
+                "image": "https://images.unsplash.com/photo-1585240698681-c76b606f01fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
             },
             {
                 "name": "Sopa Azteca",
@@ -275,7 +278,7 @@
                 ],
                 "method": "Blend tomatoes, garlic, and onion. Simmer with broth and chips until",
                 "rating": 4.3,
-                "image": "https://example.com/flan.jpg"
+                "image": "https://images.unsplash.com/photo-1664214456946-e7ef7a632239?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80"
             }
         ]
     },
@@ -286,6 +289,7 @@
         "yearsOfExperience": 80,
         "likes": 20000,
         "numRecipes": 3,
+        "bio": "Jiro Ono is a Japanese sushi chef and owner of Sukiyabashi Jiro, a Michelin three-star restaurant in Tokyo, Japan. He is widely regarded as one of the world's greatest sushi chefs and has been credited with elevating sushi to an art form. Ono has been making sushi for over 70 years, and he is known for his attention to detail and his use of the freshest ingredients. His restaurant, Sukiyabashi Jiro, has become a culinary destination for food lovers around the world, and it has been the subject of the documentary film 'Jiro Dreams of Sushi.' Ono has received numerous accolades throughout his career, including being recognized as a 'Living National Treasure' by the Japanese government. Despite his international fame, Ono remains dedicated to his craft and continues to make sushi at his restaurant in Tokyo.",
         "recipes": [
             {
                 "name": "Sushi",
@@ -298,7 +302,7 @@
                 ],
                 "method": "Cook and season sushi rice. Cut fish into slices. Form rice into balls and top with fish. Serve with wasabi, soy sauce, and seaweed.",
                 "rating": 4.9,
-                "image": "https://example.com/sushi.jpg"
+                "image": "https://images.unsplash.com/photo-1617196905100-216ffe128142?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1464&q=80"
             },
             {
                 "name": "Sashimi",
@@ -309,7 +313,7 @@
                 ],
                 "method": "Cut fish into thin slices. Serve with wasabi and soy sauce.",
                 "rating": 4.8,
-                "image": "https://example.com/sashimi.jpg"
+                "image": "https://images.unsplash.com/photo-1638866381709-071747b518c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1412&q=80"
             },
             {
                 "name": "Chirashi",
@@ -322,7 +326,7 @@
                 ],
                 "method": "Cook and season sushi rice. Top with sliced fish, vegetables, and egg. Serve with seaweed.",
                 "rating": 4.7,
-                "image": "https://example.com/chirashi.jpg"
+                "image": "https://images.unsplash.com/photo-1565967531713-45739e0cad63?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             }
         ]
     },
@@ -333,6 +337,7 @@
         "yearsOfExperience": 30,
         "likes": 30000,
         "numRecipes": 4,
+        "bio": "A Maxican chef and restaurateur known for his fiery temper and high culinary standards. He has multiple Michelin stars and is a popular television personality, hosting shows such as 'Hell's Kitchen' and 'MasterChef.'",
         "recipes": [
             {
                 "name": "Beef Wellington",
@@ -345,7 +350,7 @@
                 ],
                 "method": "Wrap beef fillet in prosciutto and mushrooms, then wrap in puff pastry. Brush with egg wash and bake until golden brown.",
                 "rating": 4.7,
-                "image": "https://example.com/beef_wellington.jpg"
+                "image": "https://images.unsplash.com/photo-1546964053-d018e345e490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Fish and Chips",
@@ -358,7 +363,7 @@
                 ],
                 "method": "Dredge cod fillet in seasoned flour, then dip in beer batter. Fry in hot oil until golden brown. Serve with chips.",
                 "rating": 4.6,
-                "image": "https://example.com/fish_and_chips.jpg"
+                "image": "https://images.unsplash.com/photo-1587606381492-7586d66a04a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
             },
             {
                 "name": "Shepherd's Pie",
@@ -371,7 +376,7 @@
                 ],
                 "method": "Brown ground beef with carrots, peas, and onion. Top with mashed potatoes and bake until golden brown.",
                 "rating": 4.5,
-                "image": "https://example.com/shepherds_pie.jpg"
+                "image": "https://images.unsplash.com/photo-1601000938259-9e92002320b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Beef Stroganoff",
@@ -384,7 +389,7 @@
                 ],
                 "method": "Saute beef sirloin with mushrooms and onion. Add sour cream and simmer until thickened. Serve over egg noodles.",
                 "rating": 4.4,
-                "image": "https://example.com/beef_stroganoff.jpg"
+                "image": "https://images.unsplash.com/photo-1644592219048-5c070fd3c91c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1261&q=80"
             }
         ]
     },
@@ -395,6 +400,7 @@
         "yearsOfExperience": 40,
         "likes": 35000,
         "numRecipes": 5,
+        "bio": "Ina Garten is an American chef, author, and television personality who is known for her approachable, home-style cooking. She rose to fame with her popular cookbook 'The Barefoot Contessa Cookbook,' which has since spawned a successful food and lifestyle brand. Garten's recipes emphasize fresh, seasonal ingredients and simple, yet elegant presentation. She has written several other best-selling cookbooks, including 'Barefoot Contessa Parties!' and 'Barefoot Contessa Foolproof.' Garten has also hosted several cooking shows on the Food Network, including 'Barefoot Contessa' and 'Cook Like a Pro.' Throughout her career, she has been recognized for her contributions to the culinary world, including being inducted into the Culinary Hall of Fame. Garten continues to inspire home cooks with her recipes, cookbooks, and television appearances.",
         "recipes": [
             {
                 "name": "Lobster Mac and Cheese",
@@ -407,7 +413,7 @@
                 ],
                 "method": "Boil macaroni and lobster, then mix with a cheese sauce made from butter, flour, and milk. Top with breadcrumbs and bake until golden brown.",
                 "rating": 4.8,
-                "image": "https://example.com/lobster_mac_and_cheese.jpg"
+                "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Beef Bourguignon",
@@ -420,7 +426,7 @@
                 ],
                 "method": "Brown beef and bacon, then add carrots and onions. Deglaze with red wine and simmer until tender.",
                 "rating": 4.7,
-                "image": "https://example.com/beef_bourguignon.jpg"
+                "image": "https://images.unsplash.com/photo-1676300185579-ed2b14891d82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Roast Turkey",
@@ -433,7 +439,7 @@
                 ],
                 "method": "Rub turkey with butter, garlic, lemon, and thyme. Roast until golden brown and cooked through.",
                 "rating": 4.6,
-                "image": "https://example.com/roast_turkey.jpg"
+                "image": "https://images.unsplash.com/photo-1574672280600-4accfa5b6f98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             },
             {
                 "name": "Potato Salad",
@@ -446,7 +452,7 @@
                 ],
                 "method": "Boil potatoes, then mix with a dressing made from mayonnaise, sour cream, scallions, and dill.",
                 "rating": 4.5,
-                "image": "https://example.com/potato_salad.jpg"
+                "image": "https://plus.unsplash.com/premium_photo-1676313449501-8ed94e22a65b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
             },
             {
                 "name": "Shrimp Scampi",
@@ -459,7 +465,7 @@
                 ],
                 "method": "Saute shrimp and garlic in butter, then toss with pasta and lemon.",
                 "rating": 4.4,
-                "image": "https://example.com/shrimp_scampi.jpg"
+                "image": "https://images.unsplash.com/photo-1633504581786-316c8002b1b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
             }
         ]
     }
